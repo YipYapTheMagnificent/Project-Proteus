@@ -1354,4 +1354,22 @@ return {
 			["4ABY"] = true
 		}
 	},
+
+	["BORMEA"] = {
+		["FullLarge"] = {
+			["4ABY"] = true
+		}
+		,["FullMedium"] = {
+			["4ABY"] = true
+		}
+		,["KnownLarge"] = {
+			["4ABY"] = true
+		}
+		,["KnownMedium"] = {
+			["4ABY"] = true
+		}
+		,["Empires_At_War"] = {
+			["4ABY"] = true
+		}
+	},
 }
